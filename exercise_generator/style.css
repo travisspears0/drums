@@ -1,0 +1,44 @@
+.pattern {
+display: block;
+}
+
+.measure {
+display: inline-block;
+border-right: 5px solid black;
+height: 50px;
+width: 216px;
+}
+
+.measure-first {
+border-left: 5px solid black;
+}
+
+.note {
+border: 5px solid black;
+border-radius: 50px;
+width: 20px;
+height: 20px;
+margin: 0 10px;
+display: inline-block;
+font-size: 17px;
+text-align: center;
+}
+
+.bass {
+background-color: black;
+color: white;
+}
+
+.tone {
+
+}
+
+.slap {
+background-color: red;
+}
+
+.none {
+border: 1px solid black;
+color: white;
+margin: 0 14px;
+}
